@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/maiqbal2/492_Images/tree/gh-pages) branch hosts the contents of this directory at <https://maiqbal2.github.io/492_Images/>.
-The permalink for this webpage version is <https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/>.
+The permalink for this webpage version is <https://maiqbal2.github.io/492_Images/v/121ca04e6e4c2bce26e7d1f7f466b1093d8ab583/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://maiqbal2.github.io/492_Images/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea`](https://github.com/maiqbal2/492_Images/commit/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea).
+[`121ca04e6e4c2bce26e7d1f7f466b1093d8ab583`](https://github.com/maiqbal2/492_Images/commit/121ca04e6e4c2bce26e7d1f7f466b1093d8ab583).
