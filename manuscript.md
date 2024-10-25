@@ -5,22 +5,26 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-06-10'
+date-meta: '2024-10-25'
 author-meta:
 - John Doe
 - Jane Roe
-header-includes: |-
+header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
+  <meta property="og:type" content="article" />
   <meta name="dc.title" content="Manuscript Title" />
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-06-10" />
-  <meta name="citation_publication_date" content="2021-06-10" />
+  <meta name="dc.date" content="2024-10-25" />
+  <meta name="citation_publication_date" content="2024-10-25" />
+  <meta property="article:published_time" content="2024-10-25" />
+  <meta name="dc.modified" content="2024-10-25T04:18:52+00:00" />
+  <meta property="article:modified_time" content="2024-10-25T04:18:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,15 +39,15 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <link rel="canonical" href="https://manubot.github.io/rootstock/" />
-  <meta property="og:url" content="https://manubot.github.io/rootstock/" />
-  <meta property="twitter:url" content="https://manubot.github.io/rootstock/" />
-  <meta name="citation_fulltext_html_url" content="https://manubot.github.io/rootstock/" />
-  <meta name="citation_pdf_url" content="https://manubot.github.io/rootstock/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://manubot.github.io/rootstock/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://manubot.github.io/rootstock/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_html_url_versioned" content="https://manubot.github.io/rootstock/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://manubot.github.io/rootstock/v/defe787b0ad8a21a745cc82c3117770896caaf8b/manuscript.pdf" />
+  <link rel="canonical" href="https://maiqbal2.github.io/492_Images/" />
+  <meta property="og:url" content="https://maiqbal2.github.io/492_Images/" />
+  <meta property="twitter:url" content="https://maiqbal2.github.io/492_Images/" />
+  <meta name="citation_fulltext_html_url" content="https://maiqbal2.github.io/492_Images/" />
+  <meta name="citation_pdf_url" content="https://maiqbal2.github.io/492_Images/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://maiqbal2.github.io/492_Images/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/" />
+  <meta name="manubot_html_url_versioned" content="https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/" />
+  <meta name="manubot_pdf_url_versioned" content="https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,37 +69,53 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://manubot.github.io/rootstock/v/defe787b0ad8a21a745cc82c3117770896caaf8b/))
+([permalink](https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/))
 was automatically generated
-from [manubot/rootstock@defe787](https://github.com/manubot/rootstock/tree/defe787b0ad8a21a745cc82c3117770896caaf8b)
-on June 10, 2021.
+from [maiqbal2/492_Images@0e4f13d](https://github.com/maiqbal2/492_Images/tree/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea)
+on October 25, 2024.
 </em></small>
+
+
 
 ## Authors
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **John Doe**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [johndoe](https://twitter.com/johndoe)
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
+    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    <br>
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
++ **Jane Roe**
+  ^[✉](#correspondence)^<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janeroe](https://github.com/janeroe)
+    <br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
+
+::: {#correspondence}
+✉ — Correspondence possible via [GitHub Issues](https://github.com/maiqbal2/492_Images/issues)
+or email to
+Jane Roe \<jane.roe@whatever.edu\>.
+
+
+:::
 
 
 ## Abstract {.page_break_before}
@@ -291,6 +311,7 @@ Loaded from a specific (hashed) version of the image on GitHub.
 **A vector `.svg` image loaded from GitHub.**
 The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
 White background specified to serve as a backdrop for transparent sections of the image.
+Note that if you want to export to Word (`.docx`), you need to download the image and reference it locally (e.g. `content/images/vector.svg`) instead of using a URL.
 ](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
 
 ## Tables
@@ -403,3 +424,4 @@ useful for *warnings* - [manubot.org](https://manubot.org/)
 
 <!-- Explicitly insert bibliography here -->
 <div id="refs"></div>
+
