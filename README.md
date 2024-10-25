@@ -1,8 +1,8 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/manubot/rootstock/tree/gh-pages) branch hosts the contents of this directory at <https://manubot.github.io/rootstock/>.
-The permalink for this webpage version is <https://manubot.github.io/rootstock/v/defe787b0ad8a21a745cc82c3117770896caaf8b/>.
-To redirect to the permalink for the latest manuscript version at anytime, use the link <https://manubot.github.io/rootstock/v/freeze/>.
+The [`gh-pages`](https://github.com/maiqbal2/492_Images/tree/gh-pages) branch hosts the contents of this directory at <https://maiqbal2.github.io/492_Images/>.
+The permalink for this webpage version is <https://maiqbal2.github.io/492_Images/v/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea/>.
+To redirect to the permalink for the latest manuscript version at anytime, use the link <https://maiqbal2.github.io/492_Images/v/freeze/>.
 
 ## Files
 
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`defe787b0ad8a21a745cc82c3117770896caaf8b`](https://github.com/manubot/rootstock/commit/defe787b0ad8a21a745cc82c3117770896caaf8b).
+[`0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea`](https://github.com/maiqbal2/492_Images/commit/0e4f13d36bb9a1acbcaa8ded4fb1a3c57fde82ea).
